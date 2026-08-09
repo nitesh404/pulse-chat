@@ -18,11 +18,7 @@ const Navbar = () => {
               className="flex items-center gap-2.5 hover:opacity-90 transition-all"
             >
               <div className="size-9 rounded-lg flex items-center justify-center">
-                <img
-                  src="../../public/pulse.svg"
-                  alt="Pulse Logo"
-                  className="w-10"
-                />
+                <img src="/pulse.svg" alt="Pulse Logo" className="w-10" />
               </div>
               <h1 className="text-lg font-bold">Pulse</h1>
             </Link>
