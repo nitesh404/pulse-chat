@@ -1,4 +1,3 @@
-
 # 💬 Pulse Chat
 
 A full-stack real-time messaging application built on the MERN stack, focused on the engineering details that make chat apps feel solid: stateless cross-origin authentication, live presence tracking, and targeted WebSocket delivery.
@@ -7,7 +6,7 @@ A full-stack real-time messaging application built on the MERN stack, focused on
   <img src="https://img.shields.io/badge/Stack-MERN-blue" alt="Stack" />
   <img src="https://img.shields.io/badge/Realtime-Socket.io-black" alt="Realtime" />
   <img src="https://img.shields.io/badge/Live-Demo-brightgreen" alt="Live Demo" />
-  <img src="https://img.shields.io/badge/License-ISC-lightgrey" alt="License" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License" />
 </p>
 
 <p align="center">
@@ -168,7 +167,7 @@ Please open an issue first for major changes to discuss what you'd like to chang
 
 ## License
 
-Distributed under the **ISC License**.
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## Author
 
