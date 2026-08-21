@@ -1,4 +1,4 @@
-# 💬 Pulse Chat
+# 💬 Pulse - Chat Application
 
 A full-stack real-time messaging application built on the MERN stack, focused on the engineering details that make chat apps feel solid: stateless cross-origin authentication, live presence tracking, and targeted WebSocket delivery.
 
